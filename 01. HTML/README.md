@@ -1,2 +1,2 @@
 <h1>HTML COURSE</h1>
-<h2>1. HEADING</h2>
+<h2>0001. HEADING</h2>
